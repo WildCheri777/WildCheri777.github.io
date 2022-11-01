@@ -24,6 +24,8 @@ Notes:
 
 ### Pictures
 
+<img src="./20221031_210057.jpg" width="250>
+                                        
 ![Full Setup 1](./20221031_210057.jpg \| width=250px)
 
 ![Full Setup 2](./20221031_210000.jpg)
