@@ -24,14 +24,14 @@ Notes:
 
 ### Pictures
 
-[Full Setup 1](./20221031_210057.jpg)
+![Full Setup 1](./20221031_210057.jpg | width=250)
 
-[Full Setup 2](./20221031_210000.jpg)
+![Full Setup 2](./20221031_210000.jpg)
 
-[Cable Management](./20221031_210331.jpg)
+![Cable Management](./20221031_210331.jpg)
 
-[Chassis 1](./20221031_210134.jpg)
+![Chassis 1](./20221031_210134.jpg)
 
-[Chassis 2](./20221031_210149.jpg)
+![Chassis 2](./20221031_210149.jpg)
 
-[Chassis 3](./20221031_210214.jpg)
+![Chassis 3](./20221031_210214.jpg)
