@@ -23,10 +23,8 @@ Notes:
 - 9x fans, set to a push-pull configuration to create a positive airflow
 
 ### Pictures
-
-<img src="./20221031_210057.jpg" width="250>
                                         
-![Full Setup 1](./20221031_210057.jpg \| width=250px)
+![Full Setup 1](./20221031_210057.jpg)
 
 ![Full Setup 2](./20221031_210000.jpg)
 
